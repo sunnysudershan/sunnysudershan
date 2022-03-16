@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sunnysudershan
+- 👋 Hi, I’m @SunnyRampalli
 - 👀 I’m interested in exploring new things
 - 🌱 I’m currently learning Linux, git, docker, ansible, jenkins, openshift, kubernates sooo on...
 - 💞️ I’m looking to collaborate on learning, exploring and sharing
